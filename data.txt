@@ -1,0 +1,224 @@
+HOSPITALS 50
+Apollo_JubileeHills
+Star_BanjaraHills
+Care_BanjaraHills
+Virinchi_BanjaraHills
+Rainbow_BanjaraHills
+NIMS_Punjagutta
+Yashoda_Somajiguda
+Deccan_Somajiguda
+AsterPrime_Ameerpet
+Image_Ameerpet
+Mahavir_MasabTank
+GleneaglesGlobal_Lakdikapul
+Care_Nampally
+Olive_Mehdipatnam
+Osmania_Afzalgunj
+PrincessEsra_Shahalibanda
+Owaisi_Kanchanbagh
+ApolloDRDO_Kanchanbagh
+Yashoda_Malakpet
+Care_Malakpet
+Omni_Kothapet
+Kamineni_LBNagar
+AwareGleneagles_LBNagar
+Prasad_Nacharam
+TX_Uppal
+Kamineni_KingKoti
+Apollo_Hyderguda
+Prathima_Kachiguda
+DurgabaiDeshmukh_Vidyanagar
+Srikara_RTCXRoads
+Care_Musheerabad
+Gandhi_Secunderabad
+KIMS_Secunderabad
+Yashoda_Secunderabad
+KIMSSunshine_Begumpet
+ESIC_Sanathnagar
+MallaReddyNarayana_Suraram
+Renova_Kompally
+Remedy_Kukatpally
+Srikara_Miyapur
+Citizens_Nallagandla
+KIMS_Kondapur
+Medicover_HitecCity
+Care_HitecCity
+Yashoda_HitecCity
+Pace_HitecCity
+AIG_Gachibowli
+Continental_Gachibowli
+Arete_Gachibowli
+TIMS_Gachibowli
+ROADS 116
+Apollo_JubileeHills Star_BanjaraHills 8 4
+Apollo_JubileeHills Rainbow_BanjaraHills 13 8
+Apollo_JubileeHills Yashoda_Somajiguda 16 2
+Apollo_JubileeHills Olive_Mehdipatnam 13 7
+Apollo_JubileeHills AIG_Gachibowli 21 3
+Star_BanjaraHills Care_BanjaraHills 7 4
+Star_BanjaraHills Rainbow_BanjaraHills 6 3
+Star_BanjaraHills NIMS_Punjagutta 7 4
+Care_BanjaraHills Virinchi_BanjaraHills 3 2
+Care_BanjaraHills Rainbow_BanjaraHills 3 1
+Care_BanjaraHills NIMS_Punjagutta 4 2
+Care_BanjaraHills Olive_Mehdipatnam 9 5
+Virinchi_BanjaraHills Mahavir_MasabTank 4 3
+Virinchi_BanjaraHills GleneaglesGlobal_Lakdikapul 4 2
+Virinchi_BanjaraHills Olive_Mehdipatnam 9 6
+Rainbow_BanjaraHills NIMS_Punjagutta 3 1
+Rainbow_BanjaraHills Yashoda_Somajiguda 4 3
+Rainbow_BanjaraHills Deccan_Somajiguda 5 4
+Rainbow_BanjaraHills Image_Ameerpet 7 4
+NIMS_Punjagutta Yashoda_Somajiguda 3 3
+NIMS_Punjagutta Deccan_Somajiguda 3 2
+NIMS_Punjagutta AsterPrime_Ameerpet 6 4
+NIMS_Punjagutta Image_Ameerpet 6 5
+Yashoda_Somajiguda Deccan_Somajiguda 3 1
+Yashoda_Somajiguda AsterPrime_Ameerpet 6 4
+Yashoda_Somajiguda Srikara_RTCXRoads 15 2
+Yashoda_Somajiguda KIMSSunshine_Begumpet 9 6
+Deccan_Somajiguda KIMSSunshine_Begumpet 9 5
+AsterPrime_Ameerpet Image_Ameerpet 3 3
+AsterPrime_Ameerpet KIMSSunshine_Begumpet 9 6
+AsterPrime_Ameerpet ESIC_Sanathnagar 8 4
+Image_Ameerpet ESIC_Sanathnagar 9 6
+Mahavir_MasabTank GleneaglesGlobal_Lakdikapul 3 3
+Mahavir_MasabTank Care_Nampally 5 3
+Mahavir_MasabTank Olive_Mehdipatnam 8 6
+GleneaglesGlobal_Lakdikapul Care_Nampally 5 3
+GleneaglesGlobal_Lakdikapul Apollo_Hyderguda 6 4
+Care_Nampally Osmania_Afzalgunj 8 5
+Care_Nampally Kamineni_KingKoti 5 3
+Care_Nampally Apollo_Hyderguda 5 3
+Olive_Mehdipatnam Osmania_Afzalgunj 14 2
+Olive_Mehdipatnam Continental_Gachibowli 34 4
+Osmania_Afzalgunj PrincessEsra_Shahalibanda 9 5
+Osmania_Afzalgunj Kamineni_KingKoti 7 5
+PrincessEsra_Shahalibanda Owaisi_Kanchanbagh 12 6
+PrincessEsra_Shahalibanda ApolloDRDO_Kanchanbagh 12 6
+Owaisi_Kanchanbagh ApolloDRDO_Kanchanbagh 3 1
+Owaisi_Kanchanbagh Yashoda_Malakpet 16 9
+Owaisi_Kanchanbagh Kamineni_LBNagar 20 2
+ApolloDRDO_Kanchanbagh Yashoda_Malakpet 14 8
+ApolloDRDO_Kanchanbagh Kamineni_LBNagar 20 12
+ApolloDRDO_Kanchanbagh AwareGleneagles_LBNagar 18 11
+Yashoda_Malakpet Care_Malakpet 3 1
+Yashoda_Malakpet Kamineni_KingKoti 9 5
+Yashoda_Malakpet Prathima_Kachiguda 6 4
+Care_Malakpet Kamineni_LBNagar 20 2
+Care_Malakpet Kamineni_KingKoti 10 6
+Care_Malakpet Prathima_Kachiguda 6 4
+Care_Malakpet Srikara_RTCXRoads 11 1
+Omni_Kothapet Kamineni_LBNagar 9 5
+Omni_Kothapet AwareGleneagles_LBNagar 7 5
+Omni_Kothapet TX_Uppal 13 8
+Kamineni_LBNagar AwareGleneagles_LBNagar 3 2
+AwareGleneagles_LBNagar TX_Uppal 19 10
+Prasad_Nacharam TX_Uppal 11 6
+Prasad_Nacharam Gandhi_Secunderabad 20 12
+Prasad_Nacharam Yashoda_Secunderabad 21 11
+TX_Uppal DurgabaiDeshmukh_Vidyanagar 18 2
+Kamineni_KingKoti Apollo_Hyderguda 4 4
+Kamineni_KingKoti Prathima_Kachiguda 5 3
+Prathima_Kachiguda DurgabaiDeshmukh_Vidyanagar 7 5
+Prathima_Kachiguda Srikara_RTCXRoads 7 5
+DurgabaiDeshmukh_Vidyanagar Srikara_RTCXRoads 3 2
+DurgabaiDeshmukh_Vidyanagar Care_Musheerabad 6 5
+Srikara_RTCXRoads Care_Musheerabad 6 4
+Care_Musheerabad Gandhi_Secunderabad 3 2
+Care_Musheerabad KIMS_Secunderabad 6 4
+Care_Musheerabad Yashoda_Secunderabad 9 6
+Gandhi_Secunderabad KIMS_Secunderabad 4 3
+Gandhi_Secunderabad Yashoda_Secunderabad 6 4
+KIMS_Secunderabad Yashoda_Secunderabad 4 3
+Yashoda_Secunderabad Renova_Kompally 34 4
+KIMSSunshine_Begumpet ESIC_Sanathnagar 12 8
+KIMSSunshine_Begumpet Remedy_Kukatpally 26 3
+KIMSSunshine_Begumpet Medicover_HitecCity 30 4
+ESIC_Sanathnagar MallaReddyNarayana_Suraram 34 17
+ESIC_Sanathnagar Renova_Kompally 34 18
+ESIC_Sanathnagar Remedy_Kukatpally 16 9
+MallaReddyNarayana_Suraram Renova_Kompally 18 11
+MallaReddyNarayana_Suraram Remedy_Kukatpally 25 14
+Renova_Kompally Remedy_Kukatpally 34 18
+Remedy_Kukatpally Srikara_Miyapur 20 11
+Remedy_Kukatpally Medicover_HitecCity 18 9
+Remedy_Kukatpally Pace_HitecCity 16 8
+Srikara_Miyapur Citizens_Nallagandla 22 12
+Srikara_Miyapur KIMS_Kondapur 13 7
+Srikara_Miyapur Yashoda_HitecCity 19 10
+Srikara_Miyapur AIG_Gachibowli 19 2
+Citizens_Nallagandla KIMS_Kondapur 21 11
+Citizens_Nallagandla TIMS_Gachibowli 20 10
+KIMS_Kondapur Medicover_HitecCity 9 6
+KIMS_Kondapur Yashoda_HitecCity 6 5
+KIMS_Kondapur AIG_Gachibowli 8 4
+Medicover_HitecCity Care_HitecCity 3 3
+Medicover_HitecCity Yashoda_HitecCity 3 3
+Medicover_HitecCity Pace_HitecCity 3 2
+Care_HitecCity Yashoda_HitecCity 4 4
+Care_HitecCity Pace_HitecCity 5 3
+Care_HitecCity AIG_Gachibowli 7 5
+Yashoda_HitecCity Pace_HitecCity 5 3
+AIG_Gachibowli Continental_Gachibowli 12 7
+AIG_Gachibowli Arete_Gachibowli 6 5
+AIG_Gachibowli TIMS_Gachibowli 4 3
+Continental_Gachibowli Arete_Gachibowli 7 4
+Continental_Gachibowli TIMS_Gachibowli 9 5
+Arete_Gachibowli TIMS_Gachibowli 4 2
+DONORS 4
+D1 O Kamineni_LBNagar 4 heart liver kidney kidney
+D2 A NIMS_Punjagutta 3 liver kidney kidney
+D3 B Care_BanjaraHills 4 kidney heart liver kidney
+D4 O AIG_Gachibowli 2 kidney kidney
+RECIPIENTS 50
+R01 AB kidney 3 DurgabaiDeshmukh_Vidyanagar
+R02 B liver 6 ESIC_Sanathnagar
+R03 B kidney 3 TIMS_Gachibowli
+R04 A kidney 3 Srikara_RTCXRoads
+R05 O kidney 5 DurgabaiDeshmukh_Vidyanagar
+R06 B kidney 5 KIMS_Secunderabad
+R07 A kidney 7 Renova_Kompally
+R08 O liver 9 Care_Nampally
+R09 B kidney 6 GleneaglesGlobal_Lakdikapul
+R10 A kidney 6 KIMS_Secunderabad
+R11 B liver 4 Care_Musheerabad
+R12 A kidney 5 Citizens_Nallagandla
+R13 AB kidney 9 Srikara_Miyapur
+R14 AB kidney 4 GleneaglesGlobal_Lakdikapul
+R15 B heart 10 Yashoda_Somajiguda
+R16 A liver 5 DurgabaiDeshmukh_Vidyanagar
+R17 B kidney 7 Care_Malakpet
+R18 O kidney 4 Image_Ameerpet
+R19 A kidney 6 NIMS_Punjagutta
+R20 B heart 7 KIMSSunshine_Begumpet
+R21 B liver 4 Yashoda_HitecCity
+R22 A kidney 7 Citizens_Nallagandla
+R23 O liver 9 Care_BanjaraHills
+R24 B kidney 7 Remedy_Kukatpally
+R25 AB kidney 10 Kamineni_KingKoti
+R26 B kidney 4 DurgabaiDeshmukh_Vidyanagar
+R27 B liver 10 KIMS_Kondapur
+R28 B heart 3 Continental_Gachibowli
+R29 B kidney 4 Srikara_Miyapur
+R30 B liver 8 KIMS_Kondapur
+R31 A kidney 5 Mahavir_MasabTank
+R32 B kidney 7 Srikara_Miyapur
+R33 A liver 4 Apollo_JubileeHills
+R34 A liver 3 Yashoda_Secunderabad
+R35 A kidney 6 Rainbow_BanjaraHills
+R36 O heart 9 Virinchi_BanjaraHills
+R37 O kidney 4 Care_BanjaraHills
+R38 A liver 8 Care_Nampally
+R39 A kidney 10 PrincessEsra_Shahalibanda
+R40 A kidney 5 Remedy_Kukatpally
+R41 B kidney 9 Star_BanjaraHills
+R42 AB liver 9 TIMS_Gachibowli
+R43 O kidney 7 Srikara_RTCXRoads
+R44 B kidney 10 Omni_Kothapet
+R45 O liver 10 DurgabaiDeshmukh_Vidyanagar
+R46 B heart 6 Renova_Kompally
+R47 B kidney 7 Care_Nampally
+R48 O kidney 8 Yashoda_Secunderabad
+R49 AB liver 6 Osmania_Afzalgunj
+R50 A heart 3 Citizens_Nallagandla
